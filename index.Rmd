@@ -1,17 +1,16 @@
 ---
-title: "PhD Project - What and When?"
-subtitle: "Future is bright and long is the road &#x1F6A7;"  
+title: "PhD Project - Experimental Study"
+subtitle: "Design - First Trial &#x1F527;&#x1FA9A;&#x2699;"  
 author: "Nicolas Bressoud"
 date: "January 11, 2022"
-photo_creds: "[Lili Popper](https://unsplash.com/photos/lu15z1m_KfM)" 
-url_unsplash: "https://images.unsplash.com/photo-1439396874305-9a6ba25de6c6?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2000&q=80"
-url_website: "https://www.hepvs.ch/formation-continue-enseignants/informations-generales"
-url_intranet: "https://rms.hepvs.ch/repository/4-weiterbildung/5-einmalige-weiterbildungsangebote/formation-continue-des-enseignants-specialises/dossier-23007"
+team: "chEERS lab"
+photo_creds: "[Med Badr Chemmaoui](hhttps://unsplash.com/photos/ZSPBhokqDMc)" 
+url_unsplash: "https://images.unsplash.com/photo-1523726491678-bf852e717f6a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80"
 background_position: "1050px 20px"
 background_size: "100px"
 output:
   xaringan::moon_reader:
-    self_contained: true
+    self_contained: false
     css: ["default", "xaringan-themer.css"]
     seal: false
     nature:
@@ -56,202 +55,178 @@ background-size: cover
 
 ## `r rmarkdown::metadata$subtitle`
 
-### `r rmarkdown::metadata$team`
+### `r rmarkdown::metadata$author` - `r rmarkdown::metadata$team`
 
 ### `r rmarkdown::metadata$date`
 
 ---
 class: left middle
 
+### Title
+Strength-based approach at school and development of group cohesion : Perspectives on Inclusive Education
+
+### Keywords
+character strengths, group cohesion, inclusion
+
+### Structure
+
 1. Background
+1. Objective et hypothesis
+1. Method
+1. Results (previsional)
+1. Misc.
+1. Timeline and next steps
 
-ce qu'on sait
+---
+class: title-slide, inverse, middle
+background-image: url("https://images.unsplash.com/photo-1469474968028-56623f02e42e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2948&q=80")
+background-size: cover
 
-2. Objective et hypothesis
+# Background
 
-ce que je cherche
+---
+class: left middle
 
-3. Method
+# Background
 
+--
+
+- Character Strengths 
+- ...
+- ...
+
+---
+class: title-slide, inverse, middle
+background-image: url("https://images.unsplash.com/photo-1581574919402-5b7d733224d6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2940&q=80")
+background-size: cover
+
+# Goal and Hypothesis
+
+---
+class: left middle
+
+# Goal and Hypothesis
+
+--
+
+- truc
+- truc
+
+---
+class: title-slide, inverse, middle
+background-image: url("https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2940&q=80")
+background-size: cover
+
+# Method
+
+---
+class: left middle
+
+# Method - type of research
+
+--
+
+experimental design : Notre plan d’expérience est un plan intra et inter-individuel à mesures répétées 
+
+---
+class: left middle
+
+# Method - participants
+
+--
+
+Participants
+- nombre total
+- âge, sex, type de scolarisation
+
+---
+class: left middle
+
+# Method - Material
+
+--
+
+Material
 - VI et measures
 - VD et measures
-- participants
+
+---
+class: left middle
+
+# Method - Procedure
+
+--
+
+Procedure
+- ethics : anonymisation, stockage des données, etc.
 - experimental design
-- stats prévues
-
-4. Résultats attendus
-
-
-5. Timeline et next steps
-
-
-
----
-class: , middle left
-
-## TL;DR &#x1f634;
-
---
-
-### What
-Impact of strength based interventions on class cohesion in inclusive settings
-
---
-
-### How
-
-1. theoretical framework (solo) &#129312; 
-1. adult french scale validation &#129299; 
-1. french child scale validation &#128556;	
-1. full experiment! &#129323;	
-
---
-
-### When
-
-From 2020 to 2024
+- quand comment
 
 ---
 class: title-slide, inverse, middle
-background-image: url("https://images.unsplash.com/photo-1516321497487-e288fb19713f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80")
+background-image: url("https://images.unsplash.com/photo-1520004434532-668416a08753?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2940&q=80")
 background-size: cover
 
-# What
+# Results - Previsional
 
 ---
-class: left, inverse
+class: left middle
 
-# Main goal
---
-
-### How can a strength-based intervention in schools foster school engagement and peers relationships ?
+# Results - Previsional
 
 --
 
-- Character strengths as proposed by Peterson and Seligman (VIA institute)
---
-
-- Interventions adapted with the teacher and teached by the teacher.
---
-
-- Engagement as a predictor of students outcomes (e.g. Fredricks)
---
-
-- Relationships as part of what leads to a good classroom climate (e.g. Gaudreau)
---
-
-- Classroom climate as a variable of interest in special education especially in inclusive settings.
+quels resultats selon quelle analyse
 
 ---
-class: left, inverse
-
-# Material needed
---
-
-### An intervention &#128077;	
-
---
-
-### A scale to measure strength use &#128078;
-
---
-
-### A website to collect data &#128078;
-
----
-
 class: title-slide, inverse, middle
-background-image: url("https://images.unsplash.com/photo-1434626881859-194d67b2b86f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1953&q=80")
+background-image: url("https://images.unsplash.com/photo-1623503664086-475867ec20b3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3173&q=80")
 background-size: cover
 
-# How
+# Miscellaneous
 
 ---
+class: left middle
 
-class: middle, left 
-
-# 4 articles
---
-
-.pull-left[
-### Article #1	&#129312;
-
-- theoretical framework
-- inclusive settings and happiness
-- no data
-- a proposal
-
-]
+# Miscellaneous
 
 --
 
-.pull-right[
-
-### Article #2 &#129299;
-
-- french strength use scale for adults validation
-- data already available
-- collaboration with France and Canada
-- exploratory factor analysis
-
-]
+financements
+partenaires
+conflicts of interest
 
 ---
-class: middle, left 
-
-# 4 articles
-
-
-.pull-left[
-### Article #3	&#128556;
-
-- strength use scale for children validation
-- french and/or german and/or english
-- needs a website
-- AFE and external validity
-
-]
-
---
-
-.pull-right[
-
-### Article #4 &#129323;
-
-- teacher training
-- strength based intevention
-- effects on cohesion
-- multilevel analysis
-
-
-]
-
----
-
 class: title-slide, inverse, middle
-background-image: url("https://images.unsplash.com/photo-1519389950473-47ba0277781c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80")
+background-image: url("https://images.unsplash.com/photo-1518623001395-125242310d0c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2880&q=80")
 background-size: cover
 
-## When
-
+# Timeline and next steps
 
 ---
+class: left middle
 
-class: middle, left, inverse
+# Timeline and next steps
 
-# Some deadlines
 --
 
-### Article 1 &#10132; end 2021 &#10132; mid 2022
+truc
+
+---
+class: title-slide, inverse, middle
+background-image: url("https://images.unsplash.com/photo-1633613286848-e6f43bbafb8d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2940&q=80")
+background-size: cover
+
+# Open questions
+
+---
+class: left middle
+
+# Open questions
+
 --
 
-### Article 2 &#10132; end 2021 &#10132; mid 2022
---
-
-### Article 3 &#10132; end 2022 &#10132; end 2022
---
-
-### Article 4 &#10132; mid 2023 &#10132; mid 2024
+truc
 
 ---
 
@@ -260,11 +235,7 @@ class: middle
 .left[
 
 
-## &#x1F60D; Thank you!
-
-
-<!-- <img src="fit.png" width="15%" /> -->
-
+## &#x1F64F; Thank you!
 
 ]
 
@@ -275,12 +246,20 @@ class: middle
 
 Photo credits in order of appearance:
 
-[Lili Popper](https://unsplash.com/photos/lu15z1m_KfM)
+[Med Badr Chemmaoui](hhttps://unsplash.com/photos/ZSPBhokqDMc)
 
-[John Schnobrich](https://unsplash.com/photos/2FPjlAyMQTA)
+[David Marcu](https://unsplash.com/photos/78A265wPiO4)
 
-[Firmbee.com](https://unsplash.com/photos/jrh5lAq-mIs)
+[Engin Akyurt](https://unsplash.com/photos/bPiuY2ZSlvU)
 
-[Marvin Meyer](https://unsplash.com/photos/SYTO3xs06fU)
+[Shahadat Rahman](https://unsplash.com/photos/BfrQnKBulYQ)
+
+[Kelly Sikkema](https://unsplash.com/photos/4JxV3Gs42Ks)
+
+[Mats Hagwall](https://unsplash.com/photos/uzl47XdoLww)
+
+[Vidar Nordli-Mathisen](https://unsplash.com/photos/Kuu5mmxkwW4)
+
+[Towfiqu barbhuiya](https://unsplash.com/photos/oZuBNC-6E2s)
 
 ]
