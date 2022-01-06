@@ -91,9 +91,21 @@ class: left middle
 
 --
 
-- Character Strengths 
-- ...
-- ...
+### Topic
+
+- Character Strengths (Peterson & Seligman, 2004)
+
+- Importance of strengths use (identifying, developing, promoting) (Linkins et al., 2015)
+
+--
+
+### Impact
+
+- Benefits for relationships in the classroom (Quinlan et al., 2014)
+
+--
+
+- **Potential impact on inclusive settings (positive emotions, affiliation need, prosocial behavior)**
 
 ---
 class: title-slide, inverse, middle
@@ -109,8 +121,19 @@ class: left middle
 
 --
 
-- truc
-- truc
+### Two main questions
+
+- How can we support strengths knowledge and use?
+
+- Does it have an impact on the classroom climate?
+
+--
+
+### Hypothesis
+
+- The use of strengths at school can be improved with a program of 10 30-minute sessions. 
+
+- Strengths use predicts class cohesion (**positive emotions**, **need of affiliation**, **prosocial behavior**).
 
 ---
 class: title-slide, inverse, middle
@@ -122,22 +145,47 @@ background-size: cover
 ---
 class: left middle
 
-# Method - type of research
+# Method
 
 --
 
-experimental design : Notre plan d’expérience est un plan intra et inter-individuel à mesures répétées 
+- Type of research
+- Participants
+- Material
+- Procedure
 
 ---
 class: left middle
 
-# Method - participants
+# Method - Type of research
 
 --
 
-Participants
-- nombre total
-- âge, sex, type de scolarisation
+Quasi-experimental design:
+
+--
+
+- Repeated measures (before, after)
+
+- Between and within subjects
+
+- No random assignation
+
+---
+class: left middle
+
+# Method - Participants
+
+--
+
+- Population: Pupils
+
+- Age: 8 to 10 years old
+
+- Type of schooling: ordinary/integrative settings
+
+- N: 120 to 160, 8 classes (4 in each condition group)
+
 
 ---
 class: left middle
@@ -146,9 +194,25 @@ class: left middle
 
 --
 
-Material
-- VI et measures
-- VD et measures
+### IV - Strengths use (better than strengths knowledge)
+
+- Measured with the Strength Use Scale (Govindji & Linley, 2007)
+
+- Has to be adapted (and validated) in french, for children
+
+- 14 items, self reported
+
+--
+
+### DV - Positive emotions, need of affiliation, prosocial behavior
+
+- Positive emotions: PANAS ?
+
+- Need of affiliation: ...
+
+- Prosocial Behavior: ... 
+
+- *Completed with a sociogramm (qualitative observation of relational dynamics)*
 
 ---
 class: left middle
@@ -157,10 +221,23 @@ class: left middle
 
 --
 
-Procedure
-- ethics : anonymisation, stockage des données, etc.
-- experimental design
-- quand comment
+### Ethics
+
+- with UniDistance
+
+- Anonymization, Data storage, Consent, Approvals,...
+
+--
+
+### Design
+
+- Experimental group:
+
+    - Use of the strengths material by the teacher (10 x 30 min)
+    - 2 sessions per week over 5 weeks
+    - Coaching by the experimenter (1 time before and 2 times during the procedure)
+
+- Measures before and after intervention in both experimental and control groups
 
 ---
 class: title-slide, inverse, middle
@@ -176,7 +253,19 @@ class: left middle
 
 --
 
-quels resultats selon quelle analyse
+Standard paired t-test might indicate:
+
+- Progression of the experimental group in strengths use
+
+--
+
+Multilevel analysis might indicate:
+
+- Effect of interaction time-group on DV
+    
+    - Positive emotions
+    - Need of Affiliation
+    - Prosocial behavior
 
 ---
 class: title-slide, inverse, middle
@@ -192,9 +281,17 @@ class: left middle
 
 --
 
-financements
-partenaires
-conflicts of interest
+- Funding: none
+
+- Collaborations:
+
+    - HEP Valais
+    - UniDistance
+    - UNIFR
+    - HEP Vaud
+    - Université Lyon Lumière
+    
+- Conflicts of interest: none
 
 ---
 class: title-slide, inverse, middle
@@ -210,8 +307,12 @@ class: left middle
 
 --
 
-truc
+### January-February: ethical approval
+### March-June: Data collect
 
+- week 1: T1
+- week 2 to 7: Intervention
+- week 8: T2
 ---
 class: title-slide, inverse, middle
 background-image: url("https://images.unsplash.com/photo-1633613286848-e6f43bbafb8d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2940&q=80")
@@ -223,10 +324,6 @@ background-size: cover
 class: left middle
 
 # Open questions
-
---
-
-truc
 
 ---
 
